@@ -1,17 +1,17 @@
 
 {
-  "name": "Baraka-Md",
+  "name": "Deep_Editz_Bot_V1",
   "version": "10.8.1",
-  "description": "Baraka-Md latest multi device whatsapp bot",
+  "description": "Deep_Editz_Bot_V1 latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Baraka-Md",
-    "stop": "pm2 stop Baraka-Md",
-    "restart": "pm2 restart Baraka-Md"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Deep_Editz_Bot_V1",
+    "stop": "pm2 stop Deep_Editz_Bot_V1",
+    "restart": "pm2 restart Deep_Editz_Bot_V1"
   },
-  "keywords": ["Baraka-Md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Baraka Bega",
+  "keywords": ["Deep_Editz_Bot_V1", "whatsapp-bot", "whatsapp Deep_Editz_Bot_V1"],
+  "author": "Deep_Editz",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
